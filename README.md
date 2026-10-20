@@ -6,3 +6,4 @@
  - BATRISYIA AMANI
 
 - Lab 2 commit by NORHASLIN SHARI
+- Contact Email 1: norhaslin05@graduate.utm.my
